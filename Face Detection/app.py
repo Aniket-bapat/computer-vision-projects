@@ -13,5 +13,6 @@ while True:
     if key == 27:
         break
 
+
 webcam.release()
 cv2.destroyAllWindows()
